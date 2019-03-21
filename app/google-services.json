@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1087121857177",
+    "firebase_url": "https://cureservlite.firebaseio.com",
+    "project_id": "cureservlite",
+    "storage_bucket": "cureservlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087121857177:android:79ee1aa2af735cfb",
+        "android_client_info": {
+          "package_name": "com.ondande.cureservlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087121857177-33s9enr20qksfrvf7avvfngc6tm9htlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ondande.cureservlite",
+            "certificate_hash": "79523e69f0d9fc66164cc8d22df7068832bafe48"
+          }
+        },
+        {
+          "client_id": "1087121857177-a1et5lp2ouhompi7pkvrha2j22jcm5uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAib5Oglnl_d77KYrw8BY031LB7V2T7Q04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087121857177-a1et5lp2ouhompi7pkvrha2j22jcm5uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
